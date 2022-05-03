@@ -1,0 +1,27 @@
+form {
+    max-width: 600px;
+    max-height: 650px;
+    margin: auto;
+    background-color: plum;
+    font-weight: bold ;
+}
+
+.errReq {
+    border: 2px solid red;
+}
+
+.error {
+    color: red;
+    font-weight: normal;
+}
+
+button {
+    background-color: black;
+    color: white;
+    margin-top: 1rem;
+}
+
+.mex {
+    color: blueviolet;
+}
+
